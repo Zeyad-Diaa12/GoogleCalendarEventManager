@@ -10,7 +10,6 @@ Google Calendar Event Manager is a .NET Core API-based web application that allo
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
   - [Configuration](#configuration)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication)
 - [Pagination](#pagination)
