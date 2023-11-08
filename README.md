@@ -59,6 +59,12 @@ To use the API, users must authenticate using OAuth 2.0. They will be prompted t
 ## Pagination
 
 For large numbers of events, the API supports pagination. You can use the pageToken parameter to retrieve additional pages of events.
+
+## References
+
+You can Checkout these resources for more information about the Google Calendar API:
+- [Resource 1](https://developers.google.com/api-client-library/dotnet/apis/calendar/v3)
+- [Resource 2](https://www.c-sharpcorner.com/article/google-calendar-api-integration-with-net-core/)
 ## Contributing
 
 Contributions are always welcome!
