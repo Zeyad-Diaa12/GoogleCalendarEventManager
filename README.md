@@ -33,7 +33,7 @@ Before running the application, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/GoogleCalendarEventManagergit
+   git clone https://github.com/Zeyad-Diaa12/GoogleCalendarEventManagergit
    
 2. Open the solution in your preferred development environment.
 3. Open the solution in your preferred development environment.
